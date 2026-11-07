@@ -12,6 +12,5 @@ java Main
 ```
 
 ## Screenshot Luaran
-![Screenshot 2026-11-07 201742.png](Screenshot%202026-11-07%20201742.png)
-![Screenshot 2026-11-07 201748.png](Screenshot%202026-11-07%20201748.png)
-
+![output1.png](images/output1.png)
+![output2.png](images/output2.png)
