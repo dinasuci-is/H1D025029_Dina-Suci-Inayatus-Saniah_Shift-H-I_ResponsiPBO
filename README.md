@@ -12,5 +12,5 @@ java Main
 ```
 
 ## Screenshot Luaran
-![output1.png](images/output1.png)
-![output2.png](images/output2.png)
+![output1.png](output1.png)
+![output2.png](output2.png)
